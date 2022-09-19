@@ -81,4 +81,4 @@ if (bundle_id == "net.shinyfrog.bear-iOS") {
     ]
   };
 }
-$done({body:JSON.stringify(obj)})
+$done({body:JSON.stringify(obj)});
