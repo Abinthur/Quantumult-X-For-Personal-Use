@@ -1,3 +1,4 @@
+# Block ads
 DOMAIN,app.2haohr.com,REJECT
 DOMAIN,api.2haohr.com,REJECT
 DOMAIN,admin.2haohr.com,REJECT
@@ -13,4 +14,10 @@ IP-CIDR,203.107.1.0/24,REJECT
 IP-CIDR,203.98.234.0/24,REJECT
 IP-CIDR,115.231.80.0/24,REJECT
 IP-CIDR,61.160.247.0/24,REJECT
-IP-CIDR,61.160.247.0/24,REJECT
+
+# Block mall
+DOMAIN,mall.2haohr.com,REJECT
+
+# Block social
+DOMAIN,im.2haohr.com,REJECT
+DOMAIN,chat.2haohr.com,REJECT
