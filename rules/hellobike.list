@@ -1,23 +1,21 @@
 # Block ads
-DOMAIN,app.2haohr.com,REJECT
-DOMAIN,api.2haohr.com,REJECT
-DOMAIN,admin.2haohr.com,REJECT
-DOMAIN,ad.2haohr.com,REJECT
-DOMAIN,ad.ccgslb.com,REJECT
-DOMAIN,qd.haluo.com,REJECT
-DOMAIN,ub.haloapps.com,REJECT
-DOMAIN,um.baidu.com,REJECT
-DOMAIN,applogs.2haohr.com,REJECT
-DOMAIN,log.2haohr.com,REJECT
-DOMAIN,3gimg.qq.com,REJECT
-IP-CIDR,203.107.1.0/24,REJECT
-IP-CIDR,203.98.234.0/24,REJECT
-IP-CIDR,115.231.80.0/24,REJECT
-IP-CIDR,61.160.247.0/24,REJECT
+DOMAIN,hellobike.com,REJECT
+DOMAIN,cloudfront.net,REJECT
+DOMAIN,usehello.xyz,REJECT
+DOMAIN,usehello.fun,REJECT
+DOMAIN,hellobike.cn,REJECT
+IP-CIDR,13.112.64.0/18,REJECT
+IP-CIDR,13.230.0.0/16,REJECT
+IP-CIDR,13.251.0.0/16,REJECT
+IP-CIDR,54.239.128.0/18,REJECT
+IP-CIDR,103.21.244.0/22,REJECT
+IP-CIDR,34.228.0.0/16,REJECT
+IP-CIDR,35.168.0.0/13,REJECT
+IP-CIDR,52.95.128.0/17,REJECT
 
 # Block mall
-DOMAIN,mall.2haohr.com,REJECT
+DOMAIN,mall.hellobike.com,REJECT
 
 # Block social
-DOMAIN,im.2haohr.com,REJECT
-DOMAIN,chat.2haohr.com,REJECT
+DOMAIN,im.hellobike.com,REJECT
+DOMAIN,chat.hellobike.com,REJECT
