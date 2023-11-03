@@ -1,9 +1,9 @@
-# NAME: Nofat
+# NAME: Nofap
 # AUTHOR: Abinthur
 # REPO: https://github.com/Abinthur/Quantumult-X-For-Personal-Use/new/main/rules
 # UPDATED: 2023-11-03
 # HOST-SUFFIX: 
 # TOTAL: 
-HOST-SUFFIX,sehuatang.net,nofat
-HOST-SUFFIX,jable.tv,nofat
-HOST-SUFFIX,pornhub.com,nofat
+HOST-SUFFIX,sehuatang.net,Nofap
+HOST-SUFFIX,jable.tv,Nofap
+HOST-SUFFIX,pornhub.com,Nofap
