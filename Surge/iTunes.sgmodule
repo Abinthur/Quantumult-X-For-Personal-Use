@@ -1,0 +1,8 @@
+#!name=iTunes
+#!desc=适配 iTunes 收据响应脚本，引用固定版本的上游源码。
+
+[Script]
+iTunes-Receipt = type=http-response, pattern=^https?://buy\.itunes\.apple\.com/verifyReceipt$, requires-body=true, script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/46fe48cdc168a8d115f204d3515103811676bc2a/iTunes.js
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
